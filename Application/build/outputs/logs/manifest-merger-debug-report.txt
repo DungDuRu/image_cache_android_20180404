@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:18:1-54:12
+INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:18:1-54:12
+INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:18:1-54:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a192e8da9ea4077a17d091360fcd3278/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/733df5621f3b2d7143dfa4d943ba9b7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/b88f806d44dacac91d3b382538ea08c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5f4bf36333a28b8de96d80d5c5354bea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/9afc7a33b3a1dbc6d8fec86ad9bf03ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5ebd1ca426279b462f310fd947b78bba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4d5d7a5ff2cb6875ca275abf222f152c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/d5fb55d185b9ef52671fb42a6304fca7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6ede9707016ffd35be459db6a95ad468/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b90d298cdd99c1041e7b3f90b82593f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/962a9f1166a1d1fa8a0d32370beaee35/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6ed0cf2b6a9d04654a3185a8d5cd774f/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:18:1-54:12
+INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:18:1-54:12
+	package
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:19:5-52
+	android:versionName
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:26:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:27:22-76
+application
+ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:29:5-52:19
+	android:label
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:32:9-45
+	android:allowBackup
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:29:18-44
+	android:description
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:31:9-52
+	android:theme
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:33:9-44
+activity#com.example.android.displayingbitmaps.ui.ImageGridActivity
+ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:35:9-41:20
+	android:label
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:36:19-51
+	android:name
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:35:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:39:27-74
+activity#com.example.android.displayingbitmaps.ui.ImageDetailActivity
+ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:43:9-50:20
+	android:parentActivityName
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:46:13-63
+	android:label
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:45:13-45
+	android:theme
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:47:13-59
+	android:name
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:44:13-51
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:48:13-49:57
+	android:value
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:49:17-54
+	android:name
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml:48:24-70
+uses-sdk
+INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a192e8da9ea4077a17d091360fcd3278/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a192e8da9ea4077a17d091360fcd3278/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/733df5621f3b2d7143dfa4d943ba9b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/733df5621f3b2d7143dfa4d943ba9b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/b88f806d44dacac91d3b382538ea08c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/b88f806d44dacac91d3b382538ea08c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5f4bf36333a28b8de96d80d5c5354bea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5f4bf36333a28b8de96d80d5c5354bea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/9afc7a33b3a1dbc6d8fec86ad9bf03ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/9afc7a33b3a1dbc6d8fec86ad9bf03ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5ebd1ca426279b462f310fd947b78bba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5ebd1ca426279b462f310fd947b78bba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4d5d7a5ff2cb6875ca275abf222f152c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4d5d7a5ff2cb6875ca275abf222f152c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/d5fb55d185b9ef52671fb42a6304fca7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/d5fb55d185b9ef52671fb42a6304fca7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6ede9707016ffd35be459db6a95ad468/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6ede9707016ffd35be459db6a95ad468/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b90d298cdd99c1041e7b3f90b82593f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b90d298cdd99c1041e7b3f90b82593f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/962a9f1166a1d1fa8a0d32370beaee35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/962a9f1166a1d1fa8a0d32370beaee35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6ed0cf2b6a9d04654a3185a8d5cd774f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/imac.suntae/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6ed0cf2b6a9d04654a3185a8d5cd774f/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/imac.suntae/Desktop/KST/Android/Application/src/main/AndroidManifest.xml

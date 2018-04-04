@@ -1,0 +1,4 @@
+#Wed Apr 04 08:06:27 KST 2018
+base.0=/Users/imac.suntae/Desktop/KST/Android/Application/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
